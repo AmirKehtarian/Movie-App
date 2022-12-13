@@ -1,3 +1,14 @@
+# Movie App 
+A React TypScript CSS project to search movies from the TMDB api.
+
+# Search API
+
+https://api.themoviedb.org/3/search/movie?api_key={api_key}&query=Jack+Reacher
+
+# Query API For Details
+
+https://api.themoviedb.org/3/movie/343611?api_key={api_key}
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +79,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
